@@ -1,0 +1,30 @@
+#jumbotron111{
+    background-image: url("https://cdn.pixabay.com/photo/2014/04/25/01/39/skateboard-331751_1280.jpg") !important;
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    background-size:100% ;
+    margin: 0%;
+    
+    
+}
+.jumbotron{
+    background-color: rgba(128, 146, 161, 0.722);
+}
+*{
+    margin: 0%;
+    box-sizing: border-box !important;
+}
+.header-nav{
+    position:fixed;
+    
+}
+.card{
+   z-index:-1;
+
+}
+.header-nav{
+    background-color: rgba(0, 0, 0, 0.282);
+    transition: ease-in;
+}
+
